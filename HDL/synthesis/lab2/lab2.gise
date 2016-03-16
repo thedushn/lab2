@@ -31,6 +31,7 @@
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="top.stx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="top.syr"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="top.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="top_envsettings.html"/>
     <file xil_pn:fileType="FILE_NCD" xil_pn:name="top_guide.ncd" xil_pn:origination="imported"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="top_summary.html"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="top_xst.xrpt"/>
@@ -67,7 +68,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1455633254" xil_pn:in_ck="1697841846668819324" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-2533086457361772621" xil_pn:start_ts="1455633239">
+    <transform xil_pn:end_ts="1458129592" xil_pn:in_ck="1697841846668819324" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-2533086457361772621" xil_pn:start_ts="1458129581">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
